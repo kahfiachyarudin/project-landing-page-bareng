@@ -3,13 +3,14 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
+import Header from './components/Header'
+import Footer from './components/Footer'
 
 function App() {
   return (
     <>
-      <h1 className="text-5xl text-red-500">
-      Tailwind jalan
-    </h1>
+      <Header />
+      <Footer/>
     </>
   )
 }
