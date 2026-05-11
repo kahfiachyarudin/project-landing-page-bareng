@@ -21,7 +21,6 @@ export default function Image() {
 
   return (
     <section className="bg-[#f5f5f5] py-14 px-4 md:px-8 min-h-screen">
-      {/* Title */}
       <div className="text-center mb-10">
         <h3 className="text-gray-500 text-sm md:text-lg">
           Share your setup with
@@ -32,7 +31,6 @@ export default function Image() {
         </h1>
       </div>
 
-      {/* Gallery */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 auto-rows-[220px] gap-4">
         <img
           src={images[0]}
