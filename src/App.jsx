@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import Image from './components/image'
 import './App.css'
 import CardSection from './components/CardSection'
+import Image from './components/image'
 
 function App() {
   return (
