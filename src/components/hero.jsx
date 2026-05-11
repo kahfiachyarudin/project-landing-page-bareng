@@ -1,9 +1,10 @@
+import heroImg from '../assets/image/heroimage.png';
 export default function Hero() {
   return (
     <section className="relative w-full h-screen">
       {/* Background Image */}
       <img
-        src="/hero-bg.jpg"
+        src={heroImg}
         alt="Hero"
         className="absolute inset-0 w-full h-full object-cover"
       />
