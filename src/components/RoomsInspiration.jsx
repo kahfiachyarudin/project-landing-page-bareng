@@ -65,7 +65,7 @@ export default function RoomsInspiration() {
             </p>
 
             <button className="mt-8 bg-[#c89b3c] hover:bg-[#b8892e] transition-all duration-300 text-white px-8 py-4 font-semibold">
-              Explore More
+              Explore Rooms
             </button>
           </div>
 
