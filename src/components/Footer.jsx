@@ -4,8 +4,8 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-14 lg:gap-20">
 
         <div>
-          <h1 className="text-3xl md:text-4xl font-bold text-black mb-8 md:mb-12">
-            Logo
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8 md:mb-12">
+           ADZ <span className="text-yellow-700">FURNITURE</span> 
           </h1>
 
           <p className="text-gray-400 leading-7 text-base md:text-lg">

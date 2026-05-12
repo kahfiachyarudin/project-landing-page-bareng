@@ -6,8 +6,8 @@ const Header = () => {
       <nav className="max-w-7xl mx-auto flex items-center justify-between px-8 py-5">
         
         <div className="flex items-center gap-3">
-          <h1 className="text-3xl font-bold text-black">
-            Logo
+          <h1 className="text-3xl font-bold text-gray-900">
+            ADZ <span className="text-yellow-700">FURNITURE</span> 
           </h1>
         </div>
 
