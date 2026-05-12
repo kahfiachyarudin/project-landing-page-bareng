@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 export default function Image() {
-  const images = [
+  const gambar = [
     "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80",
 
     "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
@@ -33,47 +33,47 @@ export default function Image() {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 auto-rows-[220px] gap-4">
         <img
-          src={images[0]}
+          src={gambar[0]}
           alt=""
           className="w-full h-full object-cover rounded-xl lg:row-span-2"
         />
 
         <img
-          src={images[1]}
+          src={gambar[1]}
           alt=""
           className="w-full h-full object-cover rounded-xl lg:col-span-2"
         />
 
         <img
-          src={images[2]}
+          src={gambar[2]}
           alt=""
           className="w-full h-full object-cover rounded-xl"
         />
 
         <img
-          src={images[3]}
+          src={gambar[3]}
           alt=""
           className="w-full h-full object-cover rounded-xl"
         />
 
         <img
-          src={images[4]}
+          src={gambar[4]}
           alt=""
           className="w-full h-full object-cover rounded-xl lg:col-span-2"
         />
 
         <img
-          src={images[5]}
+          src={gambar[5]}
           alt=""
           className="w-full h-full object-cover rounded-xl"
         />
         <img
-          src={images[6]}
+          src={gambar[6]}
           alt=""
           className="w-full h-full object-cover rounded-xl lg:col-span-2"
         />
         <img
-          src={images[7]}
+          src={gambar[7]}
           alt=""
           className="w-full h-full object-cover rounded-xl"
         />
