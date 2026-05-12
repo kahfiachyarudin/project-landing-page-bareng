@@ -81,7 +81,7 @@ export default function RoomsInspiration() {
 
                 <div className="absolute bottom-6 left-6 bg-white/80 backdrop-blur-sm p-5 w-[80%]">
                   <p className="text-sm text-gray-500">
-                    01 — {slides[current].room}
+                    {slides[current].id} — {slides[current].room}
                   </p>
 
                   <div className="flex items-center justify-between mt-2">

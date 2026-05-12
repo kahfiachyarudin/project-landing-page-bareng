@@ -22,9 +22,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-gray-700 text-sm md:text-base leading-relaxed mb-6">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-            tellus, luctus nec ullamcorper mattis.
-          </p>
+Discover modern and elegant furniture crafted to bring comfort, style, and warmth into your home. From minimalist living rooms to cozy bedrooms, ADZ Furniture helps you create spaces that truly inspire.          </p>
 
           <a 
           href="https://www.ikea.com/"
