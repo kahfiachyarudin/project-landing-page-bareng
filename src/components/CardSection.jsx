@@ -113,7 +113,11 @@ export default function CardSection() {
     <>
       <div className="text-center -mb-10">
         <h2 className="text-black text-3xl font-bold">Browse The Range</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+        <p className="text-gray-500 mt-2">
+          Explore various room inspirations designed to make your home more
+          comfortable and stylish.
+        </p>
       </div>
       <div
         ref={container}
@@ -135,7 +139,7 @@ export default function CardSection() {
                 className="w-full h-full object-cover"
                 // kalo URLnya ora bisa, ganti jadi placeholder
                 onError={(e) => {
-                  e.target.onerror = null; 
+                  e.target.onerror = null;
                   e.target.src = `https://placehold.co/500x600?text=${card.title}`;
                 }}
               />
