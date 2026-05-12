@@ -26,7 +26,7 @@ export default function Image() {
           Share your setup with
         </h3>
 
-        <h1 className="text-3xl md:text-5xl font-bold text-gray-800 mt-2">
+        <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mt-2">
           #AdzFurniture
         </h1>
       </div>
