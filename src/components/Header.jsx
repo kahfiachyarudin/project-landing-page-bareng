@@ -28,6 +28,8 @@ const Header = () => {
             Contact
           </li>
         </ul>
+        
+
 
         <div className="flex items-center gap-6 text-gray-700">
           <User className="w-5 h-5 cursor-pointer hover:text-yellow-700 duration-300" />
