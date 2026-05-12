@@ -124,7 +124,7 @@ export default function CardSection() {
         className="relative w-full h-screen flex flex-col items-center justify-center overflow-hidden"
       >
         {/* Area Kartu */}
-        <div className="relative w-full h-112.5 flex items-center justify-center">
+        <div className="relative w-full h-112.5 flex items-center justify-center mt-20">
           {/* Kartu */}
           {CardData.map((card, i) => (
             <div

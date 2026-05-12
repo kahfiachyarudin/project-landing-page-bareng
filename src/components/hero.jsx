@@ -26,9 +26,13 @@ export default function Hero() {
             tellus, luctus nec ullamcorper mattis.
           </p>
 
-          <button className="bg-[#B88E2F] text-white px-8 py-3 font-semibold hover:opacity-90 transition">
+          <a 
+          href="https://www.ikea.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-[#B88E2F] text-white px-8 py-3 font-semibold hover:opacity-90 transition">
             BUY NOW
-          </button>
+          </a>
         </div>
       </div>
     </section>
