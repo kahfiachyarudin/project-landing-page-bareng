@@ -10,10 +10,12 @@ function App() {
   return (
     <>
       <Layout>
-        <Hero />
-        <CardSection />
+      
+       
         <RoomsInspiration />
+         <CardSection />
         <Image />
+          <Hero />
       </Layout>    
     </>
   )
