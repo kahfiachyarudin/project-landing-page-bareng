@@ -1,0 +1,42 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <rect x="10" y="12" width="36" height="36" rx="8" fill="#B88E2F"/>
+
+  <path
+    d="M20 36L28 24L36 36"
+    stroke="white"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M24 30H32"
+    stroke="white"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+
+  <!-- Text -->
+  <text
+    x="60"
+    y="38"
+    font-family="Poppins, sans-serif"
+    font-size="24"
+    font-weight="700"
+    fill="#1F2937"
+  >
+    ADZ
+  </text>
+
+  <text
+    x="118"
+    y="38"
+    font-family="Poppins, sans-serif"
+    font-size="24"
+    font-weight="700"
+    fill="#B88E2F"
+  >
+    FURNITURE
+  </text>
+</svg>
