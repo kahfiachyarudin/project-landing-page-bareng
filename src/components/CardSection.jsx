@@ -9,7 +9,7 @@ const CardData = [
   {
     title: "Dining",
     imageUrl:
-      "https://images.unsplash.com/photo-1617806118233-18e1db207062?auto=format&fit=crop&q=80&w=500&h=600",
+      "https://th.bing.com/th/id/OIP.Cl_5Jp99SFiVcA2qRrghbAHaFt?w=254&h=196&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
   },
   {
     title: "Living",
@@ -19,7 +19,7 @@ const CardData = [
   {
     title: "Bedroom",
     imageUrl:
-      "https://images.unsplash.com/photo-1505691938895-1758d7eaa511?auto=format&fit=crop&q=80&w=500&h=600",
+      "https://th.bing.com/th/id/OIP.tcSQ-uvCb_Z1uCLSHDiYXQHaE8?w=297&h=198&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
   },
   {
     title: "Bathroom",
