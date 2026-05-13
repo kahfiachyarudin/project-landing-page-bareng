@@ -9,13 +9,11 @@ import CardSection from './components/CardSection'
 function App() {
   return (
     <>
-      <Layout>
-      
-       
+      <Layout> 
+        <Hero />
+        <CardSection />
         <RoomsInspiration />
-         <CardSection />
         <Image />
-          <Hero />
       </Layout>    
     </>
   )
