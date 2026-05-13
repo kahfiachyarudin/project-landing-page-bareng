@@ -12,6 +12,7 @@ function App() {
       <Layout> 
         <Hero />
         <CardSection />
+        <RoomsInspiration />
         <Image />
       </Layout>    
     </>
