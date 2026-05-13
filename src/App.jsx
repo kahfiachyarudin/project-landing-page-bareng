@@ -12,7 +12,7 @@ function App() {
       <Layout>
       
        
-        <RoomsInspiration />
+        <RoomsInspiration title="Rooms Inspiration" />
          <CardSection />
         <Image />
           <Hero />
