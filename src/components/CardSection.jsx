@@ -29,7 +29,7 @@ const CardData = [
   {
     title: "Kitchen",
     imageUrl:
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&q=80&w=500&h=600",
+      "https://th.bing.com/th/id/OIP.di9O_7jAUB9o6x5TcWvn8QHaE8?w=259&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
   },
   {
     title: "Office",
@@ -132,7 +132,7 @@ export default function CardSection() {
               <img
                 src={card.imageUrl}
                 alt={card.title}
-                className="w-full h-full object-cover"
+                className="w-150 h-150 object-cover"
                 // kalo URLnya ora bisa, ganti jadi placeholder
                 onError={(e) => {
                   e.target.onerror = null; 
