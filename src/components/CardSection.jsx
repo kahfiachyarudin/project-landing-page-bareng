@@ -29,7 +29,7 @@ const CardData = [
   {
     title: "Kitchen",
     imageUrl:
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&q=80&w=500&h=600",
+      "https://th.bing.com/th/id/OIP.di9O_7jAUB9o6x5TcWvn8QHaE8?w=259&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
   },
   {
     title: "Office",
@@ -111,7 +111,7 @@ export default function CardSection() {
 
   return (
     <>
-      <div className="text-center -mb-10">
+      <div className="text-center -mb-10 mt-20">
         <h2 className="text-black text-3xl font-bold">Browse The Range</h2>
 
         <p className="text-gray-500 mt-2">
